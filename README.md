@@ -1,4 +1,4 @@
-# Project_Python
+# Python-Project
 
 ## Descripción
 Project_Python es un repositorio que contiene ejercicios y proyectos desarrollados durante el curso "Ultimate Python: De cero a programador Experto" dictado por Nicolás Schurmann. Este proyecto abarca una variedad de temas y herramientas, incluyendo Python, SQLite, Django, HTML, Bootstrap, y más. El objetivo de este repositorio es servir como una colección de ejemplos y prácticas realizadas durante el aprendizaje de Python y sus aplicaciones.
